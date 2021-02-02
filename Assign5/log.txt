@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2018-11-17T21:10:09</date>
+  <millis>1542510609842</millis>
+  <sequence>0</sequence>
+  <logger>sentimentanalysis.TwitterGUI</logger>
+  <level>INFO</level>
+  <class>sentimentanalysis.TwitterGUI$ButtonListener$6</class>
+  <method>actionPerformed</method>
+  <thread>18</thread>
+  <message>User has chosen to change tweets</message>
+</record>
+<record>
+  <date>2018-11-17T21:10:17</date>
+  <millis>1542510617746</millis>
+  <sequence>1</sequence>
+  <logger>sentimentanalysis.TwitterGUI</logger>
+  <level>INFO</level>
+  <class>sentimentanalysis.TwitterGUI$ButtonListener$4</class>
+  <method>actionPerformed</method>
+  <thread>18</thread>
+  <message>User has chosen to Display tweets</message>
+</record>
+</log>

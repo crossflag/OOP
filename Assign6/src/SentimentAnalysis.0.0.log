@@ -1,0 +1,38 @@
+Dec 04, 2018 2:23:03 PM sentimentanalysis.MainApp$3 itemStateChanged
+INFO: Command chosen, Item = Please select...
+Dec 04, 2018 2:23:03 PM sentimentanalysis.MainApp$3 itemStateChanged
+INFO: StateChange = 2
+Dec 04, 2018 2:23:03 PM sentimentanalysis.MainApp$3 itemStateChanged
+INFO: Command chosen, Item =  2. Classify tweets using NLP library and report accuracy.
+Dec 04, 2018 2:23:03 PM sentimentanalysis.MainApp$3 itemStateChanged
+INFO: StateChange = 1
+Dec 04, 2018 2:23:05 PM sentimentanalysis.MainApp$8 actionPerformed
+INFO: Confirm button clicked. (Command 2)
+Dec 04, 2018 2:23:08 PM sentimentanalysis.MainApp$3 itemStateChanged
+INFO: Command chosen, Item =  2. Classify tweets using NLP library and report accuracy.
+Dec 04, 2018 2:23:08 PM sentimentanalysis.MainApp$3 itemStateChanged
+INFO: StateChange = 2
+Dec 04, 2018 2:23:08 PM sentimentanalysis.MainApp$3 itemStateChanged
+INFO: Command chosen, Item =  1. Load new tweet text file.
+Dec 04, 2018 2:23:08 PM sentimentanalysis.MainApp$3 itemStateChanged
+INFO: StateChange = 1
+Dec 04, 2018 2:23:34 PM sentimentanalysis.MainApp$7 actionPerformed
+INFO: Confirm button clicked. (Command 1)
+Dec 04, 2018 2:23:36 PM sentimentanalysis.MainApp$6 actionPerformed
+INFO: Save button clicked.
+Dec 04, 2018 2:23:39 PM sentimentanalysis.MainApp$3 itemStateChanged
+INFO: Command chosen, Item =  1. Load new tweet text file.
+Dec 04, 2018 2:23:39 PM sentimentanalysis.MainApp$3 itemStateChanged
+INFO: StateChange = 2
+Dec 04, 2018 2:23:39 PM sentimentanalysis.MainApp$3 itemStateChanged
+INFO: Command chosen, Item =  2. Classify tweets using NLP library and report accuracy.
+Dec 04, 2018 2:23:39 PM sentimentanalysis.MainApp$3 itemStateChanged
+INFO: StateChange = 1
+Dec 04, 2018 2:23:40 PM sentimentanalysis.MainApp$8 actionPerformed
+INFO: Confirm button clicked. (Command 2)
+Dec 04, 2018 2:44:23 PM sentimentanalysis.MainApp$2 windowClosing
+INFO: Closing window.
+Dec 04, 2018 2:44:23 PM sentimentanalysis.MainApp$2 windowClosing
+INFO: Saving database.
+Dec 04, 2018 2:44:23 PM sentimentanalysis.MainApp$2 windowClosing
+INFO: System shutdown.
